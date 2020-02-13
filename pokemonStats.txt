@@ -1,0 +1,6 @@
+Vaporeon Water 430 430 59 35 38 10
+Rhydon Ground 405 405 72 67 35 15
+Exeggutor Grass 495 495 54 45 53 12
+Jigglypuff Fairy 415 415 75 30 38 15
+Muk Poison 405 405 56 98 56 12
+Mew Psychic 450 450 46 62 69 10
